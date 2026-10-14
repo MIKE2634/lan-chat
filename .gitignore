@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.manifest
+
+# Logs
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Secrets / local config
+client_config.ini
+.env
